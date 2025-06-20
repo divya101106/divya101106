@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ! I'm Divyanteeka Sinha 👋
 
 <!--
 **divya101106/divya101106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
